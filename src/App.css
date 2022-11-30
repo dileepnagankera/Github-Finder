@@ -39,3 +39,24 @@
 input{
   width: 100%;
 }
+.home{
+  list-style-type: none;
+  display: flex;
+  
+}
+ul li {
+  padding: 15px;
+  
+  }
+#Clear {
+  width: 100%;
+}
+
+ul li{
+  list-style-type: none;
+
+  
+}
+.FFFFF div{
+  margin: 10px;
+}
